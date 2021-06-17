@@ -11,6 +11,6 @@ sudo make install
 sudo ldconfig
 ```
 
-The whole process should take you arround 10 minutes instea of the 12+ hours of compiling it yourself. 
+The whole process should take you arround 10 minutes instead of the 12+ hours of compiling it yourself. 
 
 If you encounter any issues, please open a new issue on GitHub.
